@@ -1,0 +1,20 @@
+{
+  "name": "google-calendar",
+  "private": false,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "google-apis": "PolymerLabs/google-apis",
+    "google-signin": "GoogleWebComponents/google-signin"
+  },
+  "homepage": "https://github.com/GoogleWebComponents/google-calendar",
+  "_release": "0b265e58c6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0b265e58c624426a7d37996e3a99a041d6d3a9cb"
+  },
+  "_source": "git://github.com/GoogleWebComponents/google-calendar.git",
+  "_target": "master",
+  "_originalSource": "GoogleWebComponents/google-calendar",
+  "_direct": true
+}
